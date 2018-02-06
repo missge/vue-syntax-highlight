@@ -18,3 +18,11 @@ The `<script>` block uses the syntax highlighting currently active for you norma
 ### License
 
 [MIT](http://opensource.org/licenses/MIT)
+1、如果你没安装Package Control，请先安装，安装方法请自行百度。安装OK后，接下来步骤请参考第2步即可。
+
+2、如果你已经安装过Package Control，安装vue高亮插件就比较方便。 
+①如下图：References菜单中会出现Package Control选项。 
+②点击后，弹出如下搜索框，选择Install Package或者直接输入都行。 
+也可以使用快捷键Ctrl+Shift+P来召唤出Package Control 
+③然后回车，出现下图搜索框，输入vue，就可以看到Vue Syntax Highlight插件选项，选中回车即可（因为我已经安装过，所以下图未出现该选项） 
+④安装成功后，重新打开vue文件（如果你之前开了vue文件，一定要关闭重新打开才会变为高亮），可以发现代码都变为高亮了，并且可以进行智能提示，如下图： 
